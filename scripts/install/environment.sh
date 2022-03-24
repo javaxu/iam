@@ -13,7 +13,7 @@ IAM_ROOT=$(dirname "${BASH_SOURCE[0]}")/../..
 LOCAL_OUTPUT_ROOT="${IAM_ROOT}/${OUT_DIR:-_output}"
 
 # 设置统一的密码，方便记忆
-readonly PASSWORD=${PASSWORD:-'iam59!z$'}
+readonly PASSWORD=${PASSWORD:-'j@v@-iPB3$'}
 
 # Linux系统 going 用户
 readonly LINUX_USERNAME=${LINUX_USERNAME:-going}
